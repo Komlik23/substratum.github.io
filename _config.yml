@@ -370,12 +370,7 @@ team:
   avatar: mike.jpg
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/+SykoPompos'
-  vimeo: '#'
 
 # Team Member
 - name: Ivan Iskandar
@@ -383,12 +378,7 @@ team:
   avatar: ivan.jpg
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/+IvanIskandar1023'
-  vimeo: '#'
 
 # Team Member
 - name: George Gian
@@ -396,12 +386,7 @@ team:
   avatar: george.png
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/+GeorgeGian'
-  vimeo: '#'
 
 # Team Member
 - name: Surge Raval
@@ -409,12 +394,7 @@ team:
   avatar: surge.jpg
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/109273915986671208869
-  vimeo: '#'
 
 # Team Member
 - name: Nathan Chancellor
@@ -422,12 +402,7 @@ team:
   avatar: nathan.jpg
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/+NathanChancellor
-  vimeo: '#'
 
 # Team Member
 - name: Char G
@@ -435,9 +410,4 @@ team:
   avatar: char.jpg
 
   # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
   google-plus: 'https://plus.google.com/+CharG
-  vimeo: '#'
