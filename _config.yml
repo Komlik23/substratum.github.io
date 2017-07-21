@@ -402,19 +402,6 @@ team:
   twitter: '#'
   google-plus: 'https://plus.google.com/+GeorgeGian'
   vimeo: '#'
-  
-# Team Member
-- name: Cory Collins
-  tagline: Platform Developer
-  avatar: cory.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: 'https://plus.google.com/107213348284084753883
-  vimeo: '#'
 
 # Team Member
 - name: Surge Raval
