@@ -358,7 +358,7 @@ team:
 
 # Team Member
 - name: Nicholas Chum
-  tagline: Substratum App Developer
+  tagline: Lead Substratum Developer
   avatar: nicholas.jpg
 
   # Social Links
@@ -366,7 +366,7 @@ team:
 
 # Team Member
 - name: Mike Finnegan
-  tagline: The Architect
+  tagline: Team Architect
   avatar: mike.jpg
 
   # Social Links
@@ -379,7 +379,7 @@ team:
 
 # Team Member
 - name: Ivan Iskandar
-  tagline: Platform/App Developer
+  tagline: Theme/App/Backend Engine Developer
   avatar: ivan.jpg
 
   # Social Links
@@ -392,7 +392,7 @@ team:
 
 # Team Member
 - name: George Gian
-  tagline: Platform Developer
+  tagline: Lead Experimental Developer
   avatar: george.png
 
   # Social Links
@@ -405,7 +405,7 @@ team:
 
 # Team Member
 - name: Surge Raval
-  tagline: Platform Developer
+  tagline: Binary and Algorithm Developer
   avatar: surge.jpg
 
   # Social Links
@@ -418,7 +418,7 @@ team:
 
 # Team Member
 - name: Nathan Chancellor
-  tagline: Substratum Slave
+  tagline: Documentation, community and developer relations lead
   avatar: nathan.jpg
 
   # Social Links
@@ -431,7 +431,7 @@ team:
 
 # Team Member
 - name: Char G
-  tagline: Resident Cat
+  tagline: Social media community organizer
   avatar: char.jpg
 
   # Social Links
